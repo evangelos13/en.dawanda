@@ -1,0 +1,8 @@
+browser.name = chrome
+
+base_page.url = https://en.dawanda.com/
+
+#------ dawanda.com credentials ------#
+dawanda.email = mailForAutoTests@gmail.com
+dawanda.password = qwerty
+dawanda.username = testAccountUser
